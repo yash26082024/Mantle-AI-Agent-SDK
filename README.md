@@ -6,14 +6,14 @@ A production-ready infrastructure toolkit for building verifiable AI agents on t
 
 The Mantle AI Agent SDK allows developers to build agents that observe on-chain state, reason off-chain using Large Language Models, and execute verifiable actions on Mantle. By treating Mantle as the execution and audit layer, the SDK ensures that every AI decision is linked to an on-chain receipt.
 
-## Mantle AI SDK
+## Mantle AI SDK Npm Package
 
 [npm Package](https://www.npmjs.com/package/@yash26082024/mantle-agent-sdk-core)
 
 ## Demo
 
 Watch the AI Agent Chat Interface in action:
-[![Mantle AI Agent Demo](https://img.youtube.com/vi/OohBLlis8_Q/0.jpg)](https://youtu.be/OohBLlis8_Q)
+[Mantle AI Agent Demo](https://youtu.be/OohBLlis8_Q)
 
 ## Key Features
 
@@ -100,6 +100,17 @@ The current SDK allows for the immediate deployment of standard ERC20 and ERC721
 -   **Verifiable Reasoning Logs**: Integration with decentralized storage (like IPFS or Mantle DA) to store full LLM reasoning chains, linked cryptographically to the `reasoningHash` emitted on Mantle.
 
 ---
+
+## Images
+
+<img width="793" height="501" alt="tokenchat" src="https://github.com/user-attachments/assets/fddcce7f-f827-474e-8b47-4680bb635f1c" />
+
+<img width="1470" height="382" alt="tokenexample" src="https://github.com/user-attachments/assets/7c6d19b8-05c3-4b08-80c6-f6ad9e0ba7de" />
+
+<img width="764" height="526" alt="nftchat" src="https://github.com/user-attachments/assets/f6f6f5c7-7871-413b-bf33-956fd5d5e7a3" />
+
+<img width="1470" height="426" alt="nftexample" src="https://github.com/user-attachments/assets/a168cddd-289c-4097-86f8-0311ab2064d2" />
+
 
 ## License
 MIT
