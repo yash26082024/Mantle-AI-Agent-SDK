@@ -87,6 +87,15 @@ const action = AssetUtils.createTokenAction(
   ethers.parseEther("1000000"),
   userAddress
 );
+
+// Create an NFT Collection and mint the first token immediately
+const nftWithMintAction = AssetUtils.createNFTWithMintAction(
+  factoryAddress,
+  "Art Collection",
+  "ART",
+  "https://ipfs.io/ipfs/Qm...", // Image/Metadata URI
+  receiverAddress
+);
 ```
 
 ---
