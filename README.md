@@ -112,6 +112,8 @@ The current SDK allows for the immediate deployment of standard ERC20 and ERC721
 
 ## Images
 
+<img width="1455" height="592" alt="Screenshot 2026-01-05 at 7 13 23 PM" src="https://github.com/user-attachments/assets/02eff635-f5b5-4bc3-8ac1-a2b669597a82" />
+
 <img width="793" height="501" alt="tokenchat" src="https://github.com/user-attachments/assets/fddcce7f-f827-474e-8b47-4680bb635f1c" />
 
 <img width="1470" height="382" alt="tokenexample" src="https://github.com/user-attachments/assets/7c6d19b8-05c3-4b08-80c6-f6ad9e0ba7de" />
